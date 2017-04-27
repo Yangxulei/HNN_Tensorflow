@@ -1,0 +1,2 @@
+# HNN_Tensorflow
+基于sonnet，把L2L增加二阶梯度参数的神经网络参数的结构会不会有所反应呢
